@@ -1,1 +1,10 @@
-# social_network_system_design
+<h1 align="center">System Design социальной сети для курса по System Design</a> 
+</h1>
+
+### Функциональные требования:
+
+
+
+
+### Нефункциональные требования:
+
